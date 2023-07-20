@@ -1,6 +1,9 @@
 ## Hi there 👋 I'm a Backend developer
 
-<img width="12px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" /> [My telegram](https://t.me/milov52)
+### 📫 How To Reach Me:
+
+- Email: [milov52@gmail.com](mailto:milov52@gmail.com)
+- Telegram: [@milov52](https://t.me/milov52)
 
 
 ## Technology stack
@@ -30,6 +33,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+
+**DevOps**
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-%232c3e50?style=flat-square&logo=Kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub-%232c3e50?style=flat-square&logo=GitHub)
+![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
 
 **Tools**
 
