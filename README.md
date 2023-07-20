@@ -48,5 +48,7 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![milov52 github stats](https://github-readme-stats.vercel.app/api?username=milov52&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+[![milov52 GitHub stats](https://github-readme-stats.vercel.app/api?username=milov52)](https://github.com/milov52/github-readme-stats)
+
 ![milov52 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milov52&layout=compact&count_private=true&theme=gruvbox)
 
