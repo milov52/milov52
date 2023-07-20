@@ -17,6 +17,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
+![pytest](https://img.shields.io/badge/-Pytest-%2300C7B7?style=flat-square&logo=Pytest)
 
 **Databases**
 
