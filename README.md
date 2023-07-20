@@ -38,7 +38,6 @@
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%232c3e50?style=flat-square&logo=Kubernetes)
 ![GitHub Actions](https://img.shields.io/badge/GitHub-%232c3e50?style=flat-square&logo=GitHub)
-![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
 
 **Tools**
 
